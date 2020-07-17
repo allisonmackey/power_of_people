@@ -1,24 +1,45 @@
-# README
+# Power of the People
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### Allison Mackey, 7/17/2020
 
-Things you may want to cover:
+## Description
+A site that will allow users to sign-up and enter profile information. Once signed up it will take them to their home page where they will see a feed of information based off of what political policies they've selected they are interested in. 
 
-* Ruby version
+View this project on Heroku [here]()
 
-* System dependencies
+## Setup/Installation Requirements
+For detailed instructions for installation click [here](INSTALL.md).
+<br>
+You can log into the website using the following credentials to browse the application's functionality. 
 
-* Configuration
+email: test123@test.com
+password: test123
 
-* Database creation
+## BDD
+* As an user I want to be able to create an account and select the political policies I would like to keep up to date with 
+* As a user I want to be able to log into my account 
+* As a user I want to see my user profile with a 'feed' of information about what's going on with the politicial policies I've selected
+* I want to be able to update and change the political policies I've selected as important to me
+* I want to be able to see a dashboard with news articles based on my preferences
 
-* Database initialization
+## Technologies Used
+* _Ruby_
+* _Rails_
+* _ActiveRecord_
+* _Faker_
+* _Rspec_
+* _Pry_
+* _Capybara_
+* _Postgres_
+* _Markdown_
+* _git & gitHub_
 
-* How to run the test suite
+## Known Bugs
 
-* Services (job queues, cache servers, search engines, etc.)
+none at this time
 
-* Deployment instructions
+### License
 
-* ...
+**The MIT license**
+
+Copyright (c) 2020 **Allison Mackey, Epicodus**
